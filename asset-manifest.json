@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marketing-lp/static/css/main.5e180864.chunk.css",
+    "main.js": "/marketing-lp/static/js/main.ccb5d594.chunk.js",
+    "main.js.map": "/marketing-lp/static/js/main.ccb5d594.chunk.js.map",
+    "runtime-main.js": "/marketing-lp/static/js/runtime-main.350b8f6e.js",
+    "runtime-main.js.map": "/marketing-lp/static/js/runtime-main.350b8f6e.js.map",
+    "static/js/2.ccd82b22.chunk.js": "/marketing-lp/static/js/2.ccd82b22.chunk.js",
+    "static/js/2.ccd82b22.chunk.js.map": "/marketing-lp/static/js/2.ccd82b22.chunk.js.map",
+    "index.html": "/marketing-lp/index.html",
+    "precache-manifest.e5ee6523b2692f1e7deca5d44aa833a9.js": "/marketing-lp/precache-manifest.e5ee6523b2692f1e7deca5d44aa833a9.js",
+    "service-worker.js": "/marketing-lp/service-worker.js",
+    "static/css/main.5e180864.chunk.css.map": "/marketing-lp/static/css/main.5e180864.chunk.css.map",
+    "static/js/2.ccd82b22.chunk.js.LICENSE.txt": "/marketing-lp/static/js/2.ccd82b22.chunk.js.LICENSE.txt",
+    "static/media/download__14_-removebg-preview.svg": "/marketing-lp/static/media/download__14_-removebg-preview.c51edfff.svg",
+    "static/media/mail.svg": "/marketing-lp/static/media/mail.4ab9430d.svg",
+    "static/media/newsletter.svg": "/marketing-lp/static/media/newsletter.e30bab53.svg",
+    "static/media/privacy.md": "/marketing-lp/static/media/privacy.71f30eae.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.350b8f6e.js",
+    "static/js/2.ccd82b22.chunk.js",
+    "static/css/main.5e180864.chunk.css",
+    "static/js/main.ccb5d594.chunk.js"
+  ]
+}
