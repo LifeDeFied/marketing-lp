@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/marketing-lp/static/css/main.00ac076c.chunk.css",
-    "main.js": "/marketing-lp/static/js/main.1cfdcca6.chunk.js",
-    "main.js.map": "/marketing-lp/static/js/main.1cfdcca6.chunk.js.map",
+    "main.js": "/marketing-lp/static/js/main.fee1c328.chunk.js",
+    "main.js.map": "/marketing-lp/static/js/main.fee1c328.chunk.js.map",
     "runtime-main.js": "/marketing-lp/static/js/runtime-main.2f73e760.js",
     "runtime-main.js.map": "/marketing-lp/static/js/runtime-main.2f73e760.js.map",
     "static/js/2.1d541d7f.chunk.js": "/marketing-lp/static/js/2.1d541d7f.chunk.js",
     "static/js/2.1d541d7f.chunk.js.map": "/marketing-lp/static/js/2.1d541d7f.chunk.js.map",
     "index.html": "/marketing-lp/index.html",
-    "precache-manifest.f027d5c6cddddcea0e17663470adb7c9.js": "/marketing-lp/precache-manifest.f027d5c6cddddcea0e17663470adb7c9.js",
+    "precache-manifest.4a04ba9a32e27784946ce3eed58840e1.js": "/marketing-lp/precache-manifest.4a04ba9a32e27784946ce3eed58840e1.js",
     "service-worker.js": "/marketing-lp/service-worker.js",
     "static/css/main.00ac076c.chunk.css.map": "/marketing-lp/static/css/main.00ac076c.chunk.css.map",
     "static/js/2.1d541d7f.chunk.js.LICENSE.txt": "/marketing-lp/static/js/2.1d541d7f.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.2f73e760.js",
     "static/js/2.1d541d7f.chunk.js",
     "static/css/main.00ac076c.chunk.css",
-    "static/js/main.1cfdcca6.chunk.js"
+    "static/js/main.fee1c328.chunk.js"
   ]
 }
