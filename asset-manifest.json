@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.836c234a.chunk.css",
-    "main.js": "/static/js/main.7a9db67b.chunk.js",
-    "main.js.map": "/static/js/main.7a9db67b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d1c846b1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d1c846b1.js.map",
-    "static/js/2.f89f01f6.chunk.js": "/static/js/2.f89f01f6.chunk.js",
-    "static/js/2.f89f01f6.chunk.js.map": "/static/js/2.f89f01f6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c8cebdcd7bd2edd1d13cdd14ba76d50b.js": "/precache-manifest.c8cebdcd7bd2edd1d13cdd14ba76d50b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.836c234a.chunk.css.map": "/static/css/main.836c234a.chunk.css.map",
-    "static/js/2.f89f01f6.chunk.js.LICENSE.txt": "/static/js/2.f89f01f6.chunk.js.LICENSE.txt",
-    "static/media/download__14_-removebg-preview.svg": "/static/media/download__14_-removebg-preview.c51edfff.svg",
-    "static/media/mail.svg": "/static/media/mail.4ab9430d.svg",
-    "static/media/newsletter.svg": "/static/media/newsletter.e30bab53.svg",
-    "static/media/privacy.md": "/static/media/privacy.71f30eae.md"
+    "main.css": "/info.lifedefied.com/static/css/main.836c234a.chunk.css",
+    "main.js": "/info.lifedefied.com/static/js/main.0472e59d.chunk.js",
+    "main.js.map": "/info.lifedefied.com/static/js/main.0472e59d.chunk.js.map",
+    "runtime-main.js": "/info.lifedefied.com/static/js/runtime-main.46dfb6c0.js",
+    "runtime-main.js.map": "/info.lifedefied.com/static/js/runtime-main.46dfb6c0.js.map",
+    "static/js/2.7518c445.chunk.js": "/info.lifedefied.com/static/js/2.7518c445.chunk.js",
+    "static/js/2.7518c445.chunk.js.map": "/info.lifedefied.com/static/js/2.7518c445.chunk.js.map",
+    "index.html": "/info.lifedefied.com/index.html",
+    "precache-manifest.9c209fef640d623508d8e25f2bf43d6a.js": "/info.lifedefied.com/precache-manifest.9c209fef640d623508d8e25f2bf43d6a.js",
+    "service-worker.js": "/info.lifedefied.com/service-worker.js",
+    "static/css/main.836c234a.chunk.css.map": "/info.lifedefied.com/static/css/main.836c234a.chunk.css.map",
+    "static/js/2.7518c445.chunk.js.LICENSE.txt": "/info.lifedefied.com/static/js/2.7518c445.chunk.js.LICENSE.txt",
+    "static/media/download__14_-removebg-preview.svg": "/info.lifedefied.com/static/media/download__14_-removebg-preview.c51edfff.svg",
+    "static/media/mail.svg": "/info.lifedefied.com/static/media/mail.4ab9430d.svg",
+    "static/media/newsletter.svg": "/info.lifedefied.com/static/media/newsletter.e30bab53.svg",
+    "static/media/privacy.md": "/info.lifedefied.com/static/media/privacy.71f30eae.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1c846b1.js",
-    "static/js/2.f89f01f6.chunk.js",
+    "static/js/runtime-main.46dfb6c0.js",
+    "static/js/2.7518c445.chunk.js",
     "static/css/main.836c234a.chunk.css",
-    "static/js/main.7a9db67b.chunk.js"
+    "static/js/main.0472e59d.chunk.js"
   ]
 }
